@@ -1,0 +1,1 @@
+export { default } from 'nim-test-component/components/test-component';
